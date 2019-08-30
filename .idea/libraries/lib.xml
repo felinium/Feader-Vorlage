@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rome-utils-1.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jdom2-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rome-1.12.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpcore-4.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rome-1.12.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.6-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/rome-1.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/httpclient-4.5.6-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-simple-1.7.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jtidy-r938.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
